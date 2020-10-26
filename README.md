@@ -15,6 +15,6 @@ Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's
 ## [WhiteCat DT](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-.jpg)
 Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's worth pointing out that this skin is simply the skin below with design elements from the CK skin
-* ## [Seoul+ Neox Edit](https://github.com/myangelaku/whitecat-skins/raw/master/Rafis 2018-03-26 HDDT/Rafis 2018-03-26 HDDT.osk)
-     ![](https://github.com/myangelaku/whitecat-skins/raw/master/Rafis 2018-03-26 HDDT/Rafis 2018-03-26 HDDT.png)
+* ## [Rafis 2018 HDDT](https://github.com/myangelaku/whitecat-skins/raw/master/Rafis%202018-03-26%20HDDT/Rafis%202018-03-26%20HDDT.osk)
+     ![](https://github.com/myangelaku/whitecat-skins/raw/master/Rafis%202018-03-26%20HDDT/Rafis%202018-03-26%20HDDT.png)
      Source: I got it on [CirclePeople's skin page](https://circle-people.com/skins/?osu=Rafis&download=0), I'll research on its specific origins at another point though.
