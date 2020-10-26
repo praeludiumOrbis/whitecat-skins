@@ -5,7 +5,7 @@ If you find a missing skin, message MyAngelAku#6020 on Discord or create an issu
 
 # [WhiteCat CK](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ECK%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ECK%E3%80%8F%20%23-.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ECK%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ECK%E3%80%8F%20%23-.png)
-* # [WhiteCat NM](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-.osk)
+# [WhiteCat NM](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-.png)
-  * # [Seoul+ Neox Edit](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.osk)
-  *![](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.png)
+# [Seoul+ Neox Edit](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.osk)
+![](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.png)
