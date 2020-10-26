@@ -9,7 +9,6 @@ Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself
 ## [WhiteCat NM](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-.jpg)
 Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself
-        
         The skin is simply the skin below with elements from the CK skin
 * ## [Seoul+ Neox Edit](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.osk)
      ![](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.png)
