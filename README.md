@@ -5,4 +5,4 @@ If you find a missing skin, message MyAngelAku#6020 on Discord or create an issu
 
 # [WhiteCat CK]("-        # WhiteCat (1.0) 『CK』 #-"/"-        # WhiteCat (1.0) 『CK』 #-.osk")
 
-# [Seoul+](Seoul+.osk)
+# [Seoul+](Seoul+/Seoul+.osk)
