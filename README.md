@@ -13,3 +13,4 @@ Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's
      ![](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.png)
      Source: [Posted onto r/OsuSkins](https://www.reddit.com/r/OsuSkins/comments/6gffpz/shige_yellow_cursor_blue_trail_skin_remake) but has been deleted
 ## [WhiteCat DT](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-.osk)
+![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-.jpg)
