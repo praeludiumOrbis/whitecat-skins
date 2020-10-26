@@ -8,9 +8,13 @@ If you find a missing skin, message MyAngelAku#6020 on Discord or create an issu
 Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself
 ## [WhiteCat NM](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8ENM%E3%80%8F%20%23-.jpg)
-Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's worth pointing out that the skin is simply the skin below with elements from the CK skin
+Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's worth pointing out that this skin is simply the skin below with design elements from the CK skin
 * ## [Seoul+ Neox Edit](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.osk)
      ![](https://github.com/myangelaku/whitecat-skins/raw/master/Seoul+/Seoul+.png)
      Source: [Posted onto r/OsuSkins](https://www.reddit.com/r/OsuSkins/comments/6gffpz/shige_yellow_cursor_blue_trail_skin_remake) but has been deleted
 ## [WhiteCat DT](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EDT%E3%80%8F%20%23-.jpg)
+Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's worth pointing out that this skin is simply the skin below with design elements from the CK skin
+* ## [Seoul+ Neox Edit](https://github.com/myangelaku/whitecat-skins/raw/master/Rafis 2018-03-26 HDDT/Rafis 2018-03-26 HDDT.osk)
+     ![](https://github.com/myangelaku/whitecat-skins/raw/master/Rafis 2018-03-26 HDDT/Rafis 2018-03-26 HDDT.png)
+     Source: I got it on [CirclePeople's skin page](https://circle-people.com/skins/?osu=Rafis&download=0), I'll research on its specific origins at another point though.
