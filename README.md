@@ -23,4 +23,4 @@ Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's
 Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's worth pointing out that this skin is simply the skin below with design elements from the CK skin
 * ## [MillhioreF Lite](https://github.com/myangelaku/whitecat-skins/blob/master/Millhiore%20Lite/Millhiore%2BLite.osk)
      ![](https://github.com/myangelaku/whitecat-skins/blob/master/Millhiore%20Lite/Millhiore%2BLite.png)
-     Source: Source: [MillhioreF's userpage](https://old.ppy.sh/u/941094), it bases on the default skin.
+     Source: [MillhioreF's userpage](https://old.ppy.sh/u/941094), it bases on the default skin.
