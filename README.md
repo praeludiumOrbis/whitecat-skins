@@ -24,3 +24,20 @@ Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's
 * ## [MillhioreF Lite](https://github.com/myangelaku/whitecat-skins/blob/master/Millhiore%20Lite/Millhiore%2BLite.osk)
      ![](https://github.com/myangelaku/whitecat-skins/blob/master/Millhiore%20Lite/Millhiore%2BLite.png)
      Source: [MillhioreF's userpage](https://old.ppy.sh/u/941094), it bases on the default skin.
+# [Selyu 2.3](https://github.com/myangelaku/whitecat-skins/blob/master/-%20Selyu%20v2.3/-%20Selyu%20v2.3.osk)
+![](https://github.com/myangelaku/whitecat-skins/blob/master/-%20Selyu%20v2.3/-%20Selyu%20v2.3.png)
+# [404ANF 2018](https://github.com/myangelaku/whitecat-skins/blob/master/404%20AimNotFound%202018-06-10/404%20AimNotFound%202018-06-10.osk)
+![](https://github.com/myangelaku/whitecat-skins/blob/master/404%20AimNotFound%202018-06-10/404%20AimNotFound%202018-06-10.png)
+Source: https://circle-people.com/skins/?osu=404%20AimNotFound&download=0
+# [404ANF 2018 EZ](https://github.com/myangelaku/whitecat-skins/blob/master/404%20AimNotFound%202018-10-20%20EZ/404%20AimNotFound%202018-10-20%20EZ.osk)
+![](https://github.com/myangelaku/whitecat-skins/blob/master/404%20AimNotFound%202018-10-20%20EZ/404%20AimNotFound%202018-10-20%20EZ.png)
+Source: https://circle-people.com/skins/?osu=404%20AimNotFound&download=0
+# [Vaxei 2018](https://github.com/myangelaku/whitecat-skins/blob/master/Vaxei%202018-12-09/Vaxei%202018-12-09.osk)
+![](https://github.com/myangelaku/whitecat-skins/blob/master/Vaxei%202018-12-09/Vaxei%202018-12-09.png)
+Source: Even after hours of research, I'm not entirely sure. The end product was uploaded to [Circle People's Skin Page](https://circle-people.com/skins/?osu=Vaxei&download=0), it's most likely an edit of [ReesesPuffs's skin](https://de.catbox.moe/psywxn.zip), some elements are from an old Yaong skin though.
+# [-+Shige+Seoul+(16-9)](https://github.com/myangelaku/whitecat-skins/raw/master/-%2BShige%2BSeoul%2B(16-9).osk)
+![](https://www.dropbox.com/s/3rbl8pm9eyiyr7k/-%2BShige%2BSeoul%2B(16-9).jpg?raw=1)
+Source: It was added to [Francesko149's Cookiezi Skin Gist on 2016-08-08](https://gist.github.com/Francesco149/a09c68cbe756951face7/4e9673111f24708d567093e0b8c70638db163594), I'm not sure if that was the earliest release of the skin though.
+# [SameSkinButNoRingHitCirclesWeirdName](https://github.com/myangelaku/whitecat-skins/blob/master/SameSkinButNoRingHitCirclesWeirdName/SameSkinButNoRingHitCirclesWeirdName.osk)
+![](https://github.com/myangelaku/whitecat-skins/blob/master/SameSkinButNoRingHitCirclesWeirdName/SameSkinButNoRingHitCirclesWeirdName.jpg)
+Source: It was added to [Francesko149's Cookiezi Skin Gist on 2016-02-27](https://gist.github.com/Francesco149/a09c68cbe756951face7/c62b845edda5925f9a78912427ecc6265dd7ae7e), I'm not sure if that was the earliest release of the skin though.
