@@ -26,7 +26,7 @@ Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's
      Source: [MillhioreF's userpage](https://old.ppy.sh/u/941094), it bases on the default skin.
 ## [Selyu 2.3](https://github.com/myangelaku/whitecat-skins/raw/master/-%20Selyu%20v2.3/-%20Selyu%20v2.3.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20Selyu%20v2.3/-%20Selyu%20v2.3.png)
-## [404ANF 2018](hhttps://github.com/myangelaku/whitecat-skins/raw/master/404%20AimNotFound%202018-06-10/404%20AimNotFound%202018-06-10.oskk)
+## [404ANF 2018](hhttps://github.com/myangelaku/whitecat-skins/raw/master/404%20AimNotFound%202018-06-10/404%20AimNotFound%202018-06-10.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/404%20AimNotFound%202018-06-10/404%20AimNotFound%202018-06-10.png)
 Source: https://circle-people.com/skins/?osu=404%20AimNotFound&download=0
 ## [404ANF 2018 EZ](https://github.com/myangelaku/whitecat-skins/raw/master/404%20AimNotFound%202018-10-20%20EZ/404%20AimNotFound%202018-10-20%20EZ.osk)
