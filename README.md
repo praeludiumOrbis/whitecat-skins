@@ -18,7 +18,7 @@ Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's
 * ## [Rafis 2018 HDDT](https://github.com/myangelaku/whitecat-skins/raw/master/Rafis%202018-03-26%20HDDT/Rafis%202018-03-26%20HDDT.osk)
      ![](https://github.com/myangelaku/whitecat-skins/raw/master/Rafis%202018-03-26%20HDDT/Rafis%202018-03-26%20HDDT.png)
      Source: I got it on [CirclePeople's skin page](https://circle-people.com/skins/?osu=Rafis&download=0), I'll research on its specific origins at another point though.
-## [WhiteCat EZ](https://github.com/myangelaku/whitecat-skins/blob/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EEZ%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EEZ%E3%80%8F%20%23-.osk)
+## [WhiteCat EZ](https://github.com/myangelaku/whitecat-skins/raw/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EEZ%E3%80%8F%20%23-/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EEZ%E3%80%8F%20%23-.osk)
 ![](https://github.com/myangelaku/whitecat-skins/blob/master/-%20%20%20%20%20%20%20%20%23%20WhiteCat%20(1.0)%20%E3%80%8EEZ%E3%80%8F%20%23-/-%20%23%20WhiteCat%20(1.0)%20%E3%80%8EEZ%E3%80%8F%20%23-.osk.jpg)
 Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's worth pointing out that this skin is simply the skin below with design elements from the CK skin
 * ## [MillhioreF Lite](https://github.com/myangelaku/whitecat-skins/blob/master/Millhiore%20Lite/Millhiore%2BLite.osk)
