@@ -26,7 +26,7 @@ Source: [Video upload](https://youtu.be/58nABMVbqt8) from WhiteCat himself; it's
      Source: [MillhioreF's userpage](https://old.ppy.sh/u/941094), it bases on the default skin.
 ## [Selyu 2.3](https://github.com/myangelaku/whitecat-skins/raw/master/-%20Selyu%20v2.3/-%20Selyu%20v2.3.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/-%20Selyu%20v2.3/-%20Selyu%20v2.3.png)
-## [404ANF 2018](hhttps://github.com/myangelaku/whitecat-skins/raw/master/404%20AimNotFound%202018-06-10/404%20AimNotFound%202018-06-10.osk)
+## [404ANF 2018](https://github.com/myangelaku/whitecat-skins/raw/master/404%20AimNotFound%202018-06-10/404%20AimNotFound%202018-06-10.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/404%20AimNotFound%202018-06-10/404%20AimNotFound%202018-06-10.png)
 Source: https://circle-people.com/skins/?osu=404%20AimNotFound&download=0
 ## [404ANF 2018 EZ](https://github.com/myangelaku/whitecat-skins/raw/master/404%20AimNotFound%202018-10-20%20EZ/404%20AimNotFound%202018-10-20%20EZ.osk)
@@ -38,6 +38,6 @@ Source: Even after hours of research, I'm not entirely sure. The end product was
 ## [-+Shige+Seoul+(16-9)](https://github.com/myangelaku/whitecat-skins/raw/master/-%2BShige%2BSeoul%2B(16-9)/-%2BShige%2BSeoul%2B(16-9).osk)
 ![](https://github.com/myangelaku/whitecat-skins/blob/master/-%2BShige%2BSeoul%2B(16-9)/-%2BShige%2BSeoul%2B(16-9).jpg)
 Source: It was added to [Francesko149's Cookiezi Skin Gist on 2016-08-08](https://gist.github.com/Francesco149/a09c68cbe756951face7/4e9673111f24708d567093e0b8c70638db163594), I'm not sure if that was the earliest release of the skin though.
-## [SameSkinButNoRingHitCirclesWeirdName](https://github.com/myangelaku/whitecat-skins/blob/master/SameSkinButNoRingHitCirclesWeirdName/SameSkinButNoRingHitCirclesWeirdName.osk)
+## [SameSkinButNoRingHitCirclesWeirdName](https://github.com/myangelaku/whitecat-skins/raw/master/SameSkinButNoRingHitCirclesWeirdName/SameSkinButNoRingHitCirclesWeirdName.osk)
 ![](https://github.com/myangelaku/whitecat-skins/raw/master/SameSkinButNoRingHitCirclesWeirdName/SameSkinButNoRingHitCirclesWeirdName.jpg)
 Source: It was added to [Francesko149's Cookiezi Skin Gist on 2016-02-27](https://gist.github.com/Francesco149/a09c68cbe756951face7/c62b845edda5925f9a78912427ecc6265dd7ae7e), I'm not sure if that was the earliest release of the skin though.
