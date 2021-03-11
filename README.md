@@ -35,7 +35,7 @@ Source: https://circle-people.com/skins/?osu=404%20AimNotFound&download=0
 ## [Vaxei 2018](https://github.com/myangelaku/whitecat-skins/blob/master/Vaxei%202018-12-09/Vaxei%202018-12-09.osk)
 ![](https://github.com/myangelaku/whitecat-skins/blob/master/Vaxei%202018-12-09/Vaxei%202018-12-09.png)
 Source: Even after hours of research, I'm not entirely sure. The end product was uploaded to [Circle People's Skin Page](https://circle-people.com/skins/?osu=Vaxei&download=0), it's most likely an edit of [ReesesPuffs's skin](https://de.catbox.moe/psywxn.zip), some elements are from an old Yaong skin though.
-## [-+Shige+Seoul+(16-9)](https://github.com/myangelaku/whitecat-skins/raw/master/-%2BShige%2BSeoul%2B(16-9).osk)
+## [-+Shige+Seoul+(16-9)](https://github.com/myangelaku/whitecat-skins/raw/master/-%2BShige%2BSeoul%2B(16-9)/-%2BShige%2BSeoul%2B(16-9).osk)
 ![](https://github.com/myangelaku/whitecat-skins/blob/master/-%2BShige%2BSeoul%2B(16-9)/-%2BShige%2BSeoul%2B(16-9).jpg)
 Source: It was added to [Francesko149's Cookiezi Skin Gist on 2016-08-08](https://gist.github.com/Francesco149/a09c68cbe756951face7/4e9673111f24708d567093e0b8c70638db163594), I'm not sure if that was the earliest release of the skin though.
 ## [SameSkinButNoRingHitCirclesWeirdName](https://github.com/myangelaku/whitecat-skins/blob/master/SameSkinButNoRingHitCirclesWeirdName/SameSkinButNoRingHitCirclesWeirdName.osk)
