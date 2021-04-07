@@ -1,0 +1,7 @@
+'Seoul+/' filter=lfs diff=lfs merge=lfs -text
+'*.osk' filter=lfs diff=lfs merge=lfs -text
+'*.png' filter=lfs diff=lfs merge=lfs -text
+'*.jpg' filter=lfs diff=lfs merge=lfs -text
+'Seoul+/*.jpg' filter=lfs diff=lfs merge=lfs -text
+'Seoul+/*.png' filter=lfs diff=lfs merge=lfs -text
+'Seoul+/*.osr' filter=lfs diff=lfs merge=lfs -text
